@@ -197,7 +197,7 @@ npm start
 
 
 ## ☕ **Support**
-**Developed by [Aeon San](https://github.com/Aeon-San)**
+**Developed by [KAI](https://github.com/Aeon-San)**
 If you found this Coffee Bot useful and want to support further development, you can buy me a coffee! ❤️
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20Coffee&emoji=☕&slug=aeonsan&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/aeonsan)
